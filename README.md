@@ -1,2 +1,2 @@
-# vadar
-Code and documentation about Vadar sentiment analysis
+# vader
+Code and documentation about Vader sentiment analysis
