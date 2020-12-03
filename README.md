@@ -1,4 +1,4 @@
-# vader
+# vader ![Java CI with Maven](https://github.com/BloomHash/vader/workflows/Java%20CI%20with%20Maven/badge.svg)
 Code and documentation about Vader sentiment analysis
 
 VaderExample - sample VADER run
