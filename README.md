@@ -1,7 +1,7 @@
 # vader
 Code and documentation about Vader sentiment analysis
 
-VaderTest - sample VADER run
+VaderExample - sample VADER run
   - input: two CSV files (50 Biden tweets from 10 Nov, 50 Trump tweets from 10 Nov)
     - these files were trimmed down to 50 lines and only the tweets
   - files are read in line by line, each row is added to an ArrayList
